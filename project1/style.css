@@ -16,6 +16,9 @@ body{
     text-align: justify;
 }
 
+.about2{
+    color: rgb(197, 94, 35);
+}
 .intro{
     width: 30%;
    float: left;
@@ -30,4 +33,8 @@ body{
 
 .img1 img{
     max-width: 100%;
+}
+
+.varsity{
+color: rgb(197, 94, 35);
 }
