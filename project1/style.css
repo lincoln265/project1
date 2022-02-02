@@ -1,0 +1,33 @@
+body{
+    font-family: 'Source Serif 4';
+    margin: 0;
+    padding: 0;
+}
+
+.sec1{
+
+}
+
+.name{
+    color: orange;
+}
+
+.about{
+    text-align: justify;
+}
+
+.intro{
+    width: 30%;
+   float: left;
+   margin: 5%;
+}
+
+.img1{
+    width: 35%;
+   float: left;
+   margin: 5%;
+}
+
+.img1 img{
+    max-width: 100%;
+}
