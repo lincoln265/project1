@@ -5,6 +5,9 @@ body{
 }
 
 .sec1{
+background-image: url(./photos/top-banner.png);
+height: 628px;
+background-repeat: no-repeat;
 
 }
 
@@ -37,4 +40,13 @@ body{
 
 .varsity{
 color: rgb(197, 94, 35);
+}
+
+.hire{
+    background-image: linear-gradient(pink, tomato);
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding: 7px 5px;
+    border-radius: 5px;
 }
