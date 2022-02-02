@@ -4,6 +4,9 @@ body{
     padding: 0;
 }
 
+p{
+    text-align: justify;
+}
 .sec1{
 background-image: url(./photos/top-banner.png);
 height: 628px;
@@ -12,7 +15,7 @@ background-repeat: no-repeat;
 }
 
 .name{
-    color: orange;
+    color: rgb(219, 193, 46);
 }
 
 .about{
@@ -49,4 +52,75 @@ color: rgb(197, 94, 35);
     font-weight: 600;
     padding: 7px 5px;
     border-radius: 5px;
+}
+
+.dream{
+    height: 600px;
+    background-image: url(./photos/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   
+   
+   
+}
+.img2{
+    width: 35%;
+    float: left;
+    margin: 5%;
+   
+}
+
+.img2 img{
+    max-width: 100%;
+}
+
+.intro2{
+    width: 30%;
+    float: left;
+    margin: 5%;
+   
+}
+
+
+.rgb{
+    color: rgb(28, 218, 37);
+    margin-left: 5%;
+}
+
+.experience{
+    height: 420px;
+    background-image: url(./photos/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.baby{
+    width: 20%;
+    float: left;
+   margin-left: 5%;
+   border-left:7px solid ;
+   border-image: linear-gradient(rgb(255, 221, 71), red);
+   border-image-slice: 1;
+}
+
+.pro{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(49, 180, 49), blue);
+    border-image-slice: 1;
+   
+   
+}
+
+.experience div{
+    box-shadow: 10px 10px 40px gray;
+    padding: 0% 3%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
 }
